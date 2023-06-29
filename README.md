@@ -1,4 +1,4 @@
-# bscaithesis
+# Bsc Artificial Intelligence (UvA) - Julius Bijkerk
 Bsc AI Thesis
 
 Thesis topic: Disease Recognition with Deep Learning
