@@ -5,6 +5,7 @@ Thesis topic: Disease Recognition with Deep Learning
 This repository contains the code, data, and steps used in my thesis, titled "Investigating Pre-Trained Self-Supervised Deep Learning Models for Disease Recognition"
 
 **Overview**
+
 The goal of this thesis is not only to examine the efficacy of pretrained self-supervised deep learning models like wav2vec in disease recognition from speech analysis, but also to establish a clear and efficient workflow that others can apply to similar disease recognition problems. We also compare the results of wav2vec with traditional machine learning techniques using MFCC features.
 
 The thesis further focuses on understanding, documenting, and conveying each step of the modeling and deployment process comprehensively, intending to create a replicable path for future researchers and developers.
